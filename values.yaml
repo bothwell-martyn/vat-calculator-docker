@@ -1,0 +1,2 @@
+image: qastudent/martyn-vat:<+pipeline.sequenceId>
+replicas: 1
